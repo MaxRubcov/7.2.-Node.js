@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "eslint": "^7.32.0"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
   }
 }
